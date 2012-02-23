@@ -1,0 +1,5 @@
+*.coffee
+.DS_Store
+.git*
+package.cson
+build.nbproj
