@@ -4,7 +4,7 @@ fs          = require 'fs'
 path        = require 'path'
 
 {basename}  = path
-Filter = require '../path.filter'
+Filter = require './path.filter'
 
 vows.describe('Filter class').addBatch({
   'regexp':
